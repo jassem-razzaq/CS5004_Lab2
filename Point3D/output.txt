@@ -1,0 +1,8 @@
+For Case1:
+Displacement = 1.4142135623730951
+Prof. Keith is on the move! His Velocity =0.282842712474619
+Encountered an error: Velocity cannot be 0 or negative
+
+For Case2:
+Displacement = 1.4142135623730951
+Encountered an error: Velocity cannot be 0 or negative
